@@ -52,6 +52,7 @@ function clickCircle() {
 
 }
 function setupCircles() {
+    circles = document.querySelectorAll(".circle");
     for (var i = 0; i < circles.length; i++) {
         circles[i].addEventListener("click", clickCircle);
     }
