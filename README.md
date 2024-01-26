@@ -1,2 +1,3 @@
-A colour guessing game hosted on github.io ! 
+A colour guessing game hosted on github.io
 Done as assignment for my introduction to JavaScript class!
+Here is the link to the game: 
